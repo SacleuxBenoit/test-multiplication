@@ -6,9 +6,20 @@
     <link rel="stylesheet" href="css/style.css">
     <title>Document</title>
 </head>
-<body>
-    <?php
-        include('sideBar.php')
-    ?>
+<body id="indexContainer">
+        <header>
+            <h1>Test Multiplication</h1>
+        </header>
+        
+    <div>
+        <?php
+            include('sideBar.php')
+        ?>
+    </div>
+
+<div id="contentMain">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi saepe facere quod earum quam reprehenderit officiis sequi vero maxime minima qui id illum obcaecati ipsam, ab quos dolores doloremque! Tempora.</p>
+</div>
+
 </body>
 </html>

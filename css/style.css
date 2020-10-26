@@ -8,9 +8,7 @@ ul{
 
 ul > li{
     display: inline-block;
-    flex: 2;
     list-style: none;
-
     height: 2em;
     width: 7em;
 }
