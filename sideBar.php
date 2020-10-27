@@ -7,17 +7,17 @@
 </head>
 <body>
     <ul id="sideBar">
-        <li>Table 0</li>
-        <li>Table 1</li>
-        <li>Table 2</li>
-        <li>Table 3</li>
-        <li>Table 4</li>
-        <li>Table 5</li>
-        <li>Table 6</li>
-        <li>Table 7</li>
-        <li>Table 8</li>
-        <li>Table 9</li>
-        <li>Random</li>
+        <li><a href="calcul.php">Table 0</li></a>
+        <li><a href="calcul.php">Table 1</li></a>
+        <li><a href="calcul.php">Table 2</li></a>
+        <li><a href="calcul.php">Table 3</li></a>
+        <li><a href="calcul.php">Table 4</li></a>
+        <li><a href="calcul.php">Table 5</li></a>
+        <li><a href="calcul.php">Table 6</li></a>
+        <li><a href="calcul.php">Table 7</li></a>
+        <li><a href="calcul.php">Table 8</li></a>
+        <li><a href="calcul.php">Table 9</li></a>
+        <li><a href="calcul.php">Random</li></a>
 
     </ul>
 </body>
